@@ -3,7 +3,7 @@ Monthly Transaction Count Visualization using Tablea
 
 This project presents a bar chart visualization of monthly transaction counts using an online shopping dataset.
 ### Dataset
-The dataset contains transaction data including dates and customer purchase information.
+The dataset used for this project is an **online transaction dataset sourced from Kaggle**.It contains transaction data including dates and customer purchase information.
 ### Visualization
 - Bar chart showing the number of transactions for each month.
 - Helps identify monthly trends in online shopping activity.
